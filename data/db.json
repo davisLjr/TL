@@ -1,0 +1,246 @@
+{
+  "productos": [
+    {
+      "titulo": "Camiseta Básica",
+      "descripcion": "Camiseta de algodón 100% para uso diario.",
+      "categoria": "Ropa",
+      "id": "ba61"
+    },
+    {
+      "titulo": "Jeans Ajustados",
+      "descripcion": "Jeans de corte ajustado, cómodos y elegantes.",
+      "categoria": "Ropa",
+      "id": "c470"
+    },
+    {
+      "titulo": "Zapatillas Deportivas",
+      "descripcion": "Zapatillas ligeras y transpirables para correr.",
+      "categoria": "Calzado",
+      "id": "ec2c"
+    },
+    {
+      "titulo": "Reloj Digital",
+      "descripcion": "Reloj resistente al agua con cronómetro.",
+      "categoria": "Accesorios",
+      "id": "c90f"
+    },
+    {
+      "titulo": "Mochila de Viaje",
+      "descripcion": "Mochila con múltiples compartimentos y gran capacidad.",
+      "categoria": "Accesorios",
+      "id": "5d77"
+    },
+    {
+      "titulo": "Gafas de Sol",
+      "descripcion": "Gafas UV400 con diseño moderno.",
+      "categoria": "Accesorios",
+      "id": "6e93"
+    },
+    {
+      "titulo": "Cargador Inalámbrico",
+      "descripcion": "Cargador rápido para dispositivos compatibles.",
+      "categoria": "Tecnología",
+      "id": "3f9b"
+    },
+    {
+      "titulo": "Auriculares In-ear",
+      "descripcion": "Auriculares con sonido de alta calidad y cancelación de ruido.",
+      "categoria": "Tecnología",
+      "id": "d4eb"
+    },
+    {
+      "titulo": "Laptop Gaming",
+      "descripcion": "Laptop potente para gamers, con gráficos de alta definición.",
+      "categoria": "Tecnología",
+      "id": "c882"
+    },
+    {
+      "titulo": "Monitor 4K",
+      "descripcion": "Monitor con resolución 4K y tecnología HDR.",
+      "categoria": "Tecnología",
+      "id": "fc96"
+    },
+    {
+      "titulo": "Cámara DSLR",
+      "descripcion": "Cámara profesional con lentes intercambiables.",
+      "categoria": "Fotografía",
+      "id": "defb"
+    },
+    {
+      "titulo": "Trípode Ajustable",
+      "descripcion": "Trípode ligero y portátil para cámaras.",
+      "categoria": "Fotografía",
+      "id": "a8e3"
+    },
+    {
+      "titulo": "Set de Pintura",
+      "descripcion": "Kit completo con pinceles y acuarelas.",
+      "categoria": "Arte",
+      "id": "e5db"
+    },
+    {
+      "titulo": "Cuaderno de Dibujo",
+      "descripcion": "Cuaderno de hojas lisas para bocetos.",
+      "categoria": "Arte",
+      "id": "1861"
+    },
+    {
+      "titulo": "Kit de Jardinería",
+      "descripcion": "Herramientas esenciales para el cuidado de plantas.",
+      "categoria": "Hogar",
+      "id": "e597"
+    },
+    {
+      "titulo": "Velas Aromáticas",
+      "descripcion": "Velas de soja con fragancias naturales.",
+      "categoria": "Hogar",
+      "id": "9ac0"
+    },
+    {
+      "titulo": "Cafetera Espresso",
+      "descripcion": "Cafetera para preparar café espresso en casa.",
+      "categoria": "Cocina",
+      "id": "de82"
+    },
+    {
+      "titulo": "Juego de Sartenes",
+      "descripcion": "Set de sartenes antiadherentes de alta calidad.",
+      "categoria": "Cocina",
+      "id": "dca8"
+    },
+    {
+      "titulo": "Libro de Cocina",
+      "descripcion": "Recetas sencillas para cocinar en casa.",
+      "categoria": "Libros",
+      "id": "f9a8"
+    },
+    {
+      "titulo": "Novela de Ficción",
+      "descripcion": "Una historia cautivadora llena de giros inesperados.",
+      "categoria": "Libros",
+      "id": "4916"
+    },
+    {
+      "titulo": "Puzzle de 1000 Piezas",
+      "descripcion": "Desafío visual para toda la familia.",
+      "categoria": "Juegos",
+      "id": "0420"
+    },
+    {
+      "titulo": "Juego de Mesa",
+      "descripcion": "Juego de estrategia para disfrutar con amigos.",
+      "categoria": "Juegos",
+      "id": "8f02"
+    },
+    {
+      "titulo": "Pelota de Fútbol",
+      "descripcion": "Pelota oficial de fútbol para partidos y entrenamientos.",
+      "categoria": "Deportes",
+      "id": "a6a7"
+    },
+    {
+      "titulo": "Bicicleta de Montaña",
+      "descripcion": "Bicicleta robusta para terrenos difíciles.",
+      "categoria": "Deportes",
+      "id": "e064"
+    },
+    {
+      "titulo": "Gimnasio en Casa",
+      "descripcion": "Equipamiento para ejercitarse en casa.",
+      "categoria": "Deportes",
+      "id": "0c6c"
+    },
+    {
+      "titulo": "Zapatillas de Correr",
+      "descripcion": "Zapatillas ligeras y cómodas para correr.",
+      "categoria": "Calzado",
+      "id": "1acd"
+    },
+    {
+      "titulo": "Bolsa de Deporte",
+      "descripcion": "Bolsa espaciosa para llevar tu equipo deportivo.",
+      "categoria": "Accesorios",
+      "id": "84e9"
+    },
+    {
+      "titulo": "Sombrero de Playa",
+      "descripcion": "Sombrero ligero y amplio para protegerse del sol.",
+      "categoria": "Accesorios",
+      "id": "2e80"
+    },
+    {
+      "titulo": "Chaqueta Impermeable",
+      "descripcion": "Chaqueta ligera y resistente al agua.",
+      "categoria": "Ropa",
+      "id": "c561"
+    },
+    {
+      "titulo": "Sudadera con Capucha",
+      "descripcion": "Sudadera cómoda para días fríos.",
+      "categoria": "Ropa",
+      "id": "94f3"
+    },
+    {
+      "titulo": "Botella de Agua",
+      "descripcion": "Botella reutilizable y libre de BPA.",
+      "categoria": "Hogar",
+      "id": "83da"
+    },
+    {
+      "titulo": "Taza Personalizada",
+      "descripcion": "Taza de cerámica con diseño exclusivo.",
+      "categoria": "Hogar",
+      "id": "b520"
+    },
+    {
+      "titulo": "Set de Maquillaje",
+      "descripcion": "Kit completo con maquillaje y herramientas.",
+      "categoria": "Belleza",
+      "id": "5a81"
+    },
+    {
+      "titulo": "Crema Hidratante",
+      "descripcion": "Crema nutritiva para todo tipo de piel.",
+      "categoria": "Belleza",
+      "id": "c5e0"
+    },
+    {
+      "titulo": "Perfume Floral",
+      "descripcion": "Fragancia fresca y femenina.",
+      "categoria": "Belleza",
+      "id": "f4f6"
+    },
+    {
+      "titulo": "Maquillaje de Ojos",
+      "descripcion": "Paleta de sombras en tonos variados.",
+      "categoria": "Belleza",
+      "id": "0c8f"
+    },
+    {
+      "titulo": "Cargador Solar",
+      "descripcion": "Cargador portátil que funciona con energía solar.",
+      "categoria": "Tecnología",
+      "id": "40d9"
+    },
+    {
+      "titulo": "Altavoz Bluetooth",
+      "descripcion": "Altavoz portátil con excelente calidad de sonido.",
+      "categoria": "Tecnología",
+      "id": "b81e"
+    },
+    {
+      "id": "efb111ab-0f66-46a6-9230-d211857fed52",
+      "completed": false,
+      "titulo": "wendy guevara",
+      "descripcion": "wanchiriscreifor",
+      "categoria": "Arte"
+    },
+    {
+      "id": "8fc9abce-aba1-4d2e-89f8-bfa001133362",
+      "completed": false,
+      "titulo": "canicas",
+      "descripcion": "sdfgh",
+      "categoria": "Arte"
+    }
+  ]
+}
